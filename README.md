@@ -1,5 +1,5 @@
 
-# 🧠 MedQA-NLI: A Large-Scale Multi-Source Medical Question Answering and Natural Language Inference Dataset
+#  MedQA-NLI: A Large-Scale Multi-Source Medical Question Answering and Natural Language Inference Dataset
 
 **MedQA-NLI** is a comprehensive medical reasoning dataset comprising **42,889 instances** designed for training and evaluating models on **natural language inference (NLI)** tasks in biomedical domains.
 
@@ -12,7 +12,7 @@ The dataset combines original content from **PubMed**, **PubMedQA**, and **SciFa
 
 ---
 
-## 📊 Key Statistics
+##  Key Statistics
 
 - **Total Instances**: 42,889
 
@@ -25,16 +25,16 @@ The dataset combines original content from **PubMed**, **PubMedQA**, and **SciFa
 
 ---
 
-## 🧬 Dataset Composition
+##  Dataset Composition
 
-### 🔹 Abstract Sources
+###  Abstract Sources
 | Source               | Count   | Percentage | Description                          |
 |----------------------|---------|------------|--------------------------------------|
 | PubMed Original      | 24,907  | 58.07%     | Authentic medical research abstracts |
 | BioMistral-7B-DARE   | 9,207   | 21.47%     | Synthetic medical abstracts          |
 | MedGemma-4B-IT       | 8,775   | 20.46%     | Synthetic medical abstracts          |
 
-### 🔹 Claim Sources
+###  Claim Sources
 | Source                      | Count   | Percentage |
 |-----------------------------|---------|------------|
 | OLMo-2-1124-7B-Instruct     | 6,323   | 14.74%     |
@@ -46,7 +46,7 @@ The dataset combines original content from **PubMed**, **PubMedQA**, and **SciFa
 | GPT-OSS-20B                 | 5,224   | 12.18%     |
 | SciFact                     | 1,471   | 3.43%      |
 
-### 🔹 Question Sources
+###  Question Sources
 | Source                      | Count   | Percentage |
 |-----------------------------|---------|------------|
 | PubMedQA (Original)         | 10,448  | 24.36%     |
@@ -59,7 +59,7 @@ The dataset combines original content from **PubMed**, **PubMedQA**, and **SciFa
 
 ---
 
-## ⚙️ Generation Methodology
+##  Generation Methodology
 
 The dataset was built using a **soft-supervised generation** strategy:
 
@@ -70,7 +70,7 @@ The dataset was built using a **soft-supervised generation** strategy:
 
 ---
 
-## 📦 Data Format
+## � Data Format
 
 Each instance follows this structure:
 
