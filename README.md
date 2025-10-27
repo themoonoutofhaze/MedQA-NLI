@@ -1,6 +1,3 @@
----
-license: apache-2.0
----
 
 # 🧠 MedQA-NLI: A Large-Scale Multi-Source Medical Question Answering and Natural Language Inference Dataset
 
