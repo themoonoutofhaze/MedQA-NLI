@@ -5,7 +5,7 @@
 
 Each instance pairs a PubMed abstract with a question and a claim, enabling models to perform:
 - Medical question answering
-- Claim verification
+- Claim (answer) verification
 - Textual entailment recognition
 
 The dataset combines original content from **PubMed**, **PubMedQA**, and **SciFact** with synthetically generated text using multiple state-of-the-art language models via a **soft-supervised generation approach**.
